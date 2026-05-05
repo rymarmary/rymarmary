@@ -20,8 +20,8 @@ behavioural alerts, and applying graph methods to investigate user connections.
 
 ## Stack
 
-**Languages:** Python, SQL, TypeScript  
+**Languages:** Python, SQL
 **Data:** pandas, NumPy, scikit-learn, NetworkX, igraph, statsmodels, scipy  
 **Databases:** ClickHouse, PostgreSQL, MySQL  
 **BI:** Superset, Redash, Power BI, Yandex DataLens  
-**Pipelines:** Airflow, GitHub Actions
+**Pipelines:** Airflow
