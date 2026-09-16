@@ -3,7 +3,9 @@
 Data Analyst with 3+ years of experience in fraud detection, behavioural analytics, and data-driven product analysis. Currently working at Trustpilot.
 
 💼 Fraud Detection Analyst @ Trustpilot
+
 📍 London, UK
+
 🔗 [LinkedIn](https://www.linkedin.com/in/rymarmary)
 
 ## Featured projects
