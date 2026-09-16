@@ -1,11 +1,8 @@
 # Hi, I'm Mary 👋
 
 Data Analyst with 3+ years of experience focused on **fraud and behavioural 
-analytics**. Currently at Wildberries (Russia's largest online retailer, 
-200M+ MAU), evaluating fraud and anti-bot scoring models, designing 
-behavioural alerts, and applying graph methods to investigate user connections.
+analytics**. Currently at Trustpilot (international open review platform).
 
-🔍 **Currently:** open to UK fintech / fraud-analytics roles  
 📍 **Location:** London, UK (work-eligible, no sponsorship needed)  
 💼 **Reach me:** [LinkedIn](https://www.linkedin.com/in/rymarmary)
 
